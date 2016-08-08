@@ -1,4 +1,3 @@
-layout_spectrum: 0.8504880229011178
 typography_spectrum: 0.3814352990593761
 color:
   brandStrength: 0.3078058031387627
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.8504880229011178
 name: Glimre
 title: Testing it
+description: What a lovely way to go
