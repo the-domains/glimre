@@ -1,0 +1,14 @@
+layout_spectrum: 0.8504880229011178
+typography_spectrum: 0.3814352990593761
+color:
+  brandStrength: 0.3078058031387627
+  lightness: 0.744223962072283
+  saturation: 0.31572409719228745
+  rhythmicContrast: 0.62921410985291
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Glimre
