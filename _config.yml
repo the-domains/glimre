@@ -6,9 +6,9 @@ color:
   saturation: 0.31572409719228745
   rhythmicContrast: 0.62921410985291
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
 name: Glimre
